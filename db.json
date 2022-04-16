@@ -1,22 +1,58 @@
 {
   "Country": [
     {
-      "country_name": "india",
-      "city_name": "parli",
-      "population": "25000",
+      "country_name": "India",
+      "city_name": "parli vaijnath",
+      "population": "25788",
       "id": 1
     },
     {
-      "country_name": "USA",
-      "city_name": "California",
-      "population": "5000",
+      "country_name": "India",
+      "city_name": "banglore",
+      "population": "260000",
       "id": 2
     },
     {
-      "country_name": "uk",
-      "city_name": "london",
-      "population": "34600",
+      "country_name": "California",
+      "city_name": "USA",
+      "population": "789990",
       "id": 3
+    },
+    {
+      "country_name": "UK",
+      "city_name": "London",
+      "population": "200000",
+      "id": 4
+    },
+    {
+      "country_name": "newyork",
+      "city_name": "USA",
+      "population": "687978",
+      "id": 5
+    },
+    {
+      "country_name": "rus",
+      "city_name": "rusia",
+      "population": "122900",
+      "id": 6
+    },
+    {
+      "country_name": "India",
+      "city_name": "Banglore",
+      "population": "70000",
+      "id": 7
+    },
+    {
+      "country_name": "america",
+      "city_name": "new york",
+      "population": "600000",
+      "id": 8
+    },
+    {
+      "country_name": "beed",
+      "city_name": "india",
+      "population": "28888",
+      "id": 9
     }
   ]
 }

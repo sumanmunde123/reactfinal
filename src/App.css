@@ -3,6 +3,9 @@
   display: flex;
   justify-content: space-evenly;
 }
+body{
+  background-color: rgb(239, 169, 169);
+}
 
 .App-logo {
   height: 40vmin;
