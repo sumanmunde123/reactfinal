@@ -1,0 +1,22 @@
+{
+  "Country": [
+    {
+      "country_name": "india",
+      "city_name": "parli",
+      "population": "25000",
+      "id": 1
+    },
+    {
+      "country_name": "USA",
+      "city_name": "California",
+      "population": "5000",
+      "id": 2
+    },
+    {
+      "country_name": "uk",
+      "city_name": "london",
+      "population": "34600",
+      "id": 3
+    }
+  ]
+}
